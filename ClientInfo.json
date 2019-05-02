@@ -1,0 +1,18 @@
+{
+    "queryResponse": {
+        "@last": 0,
+        "@first": 0,
+        "@count": 1,
+        "@type": "ClientDetails",
+        "@requestUrl": "https://casud1valenm108.valenet.valeglobal.net/webacs/api/v3/data/ClientDetails?macAddress=&quot;98:3b:8f:a3:df:ae&quot;",
+        "@responseType": "listEntityIds",
+        "@rootUrl": "https://casud1valenm108.valenet.valeglobal.net/webacs/api/v3/data",
+        "entityId": [
+            {
+                "@type": "ClientDetails",
+                "@url": "https://casud1valenm108.valenet.valeglobal.net/webacs/api/v3/data/ClientDetails/42",
+                "$": "42"
+            }
+        ]
+    }
+}
